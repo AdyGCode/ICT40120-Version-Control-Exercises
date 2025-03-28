@@ -224,12 +224,29 @@ Example output from `git commit`:
 ```
 
 Open the `ReadMe.md` file in your favourite text editor and add the 
-following content to iit:
+following content to it:
 
 ```markdown
+# Git Exercises
 
+- Author:   YOUR_NAME_HERE
+- Start:    YYYY-MM-DD
+- Finish:   ---
 
+## Completion list
+
+| Session | Completed |
+|---------|-----------|
+| 01      | [ ]       |
+| 02      | [ ]       |
+| 03      | [ ]       |
+| 04      | [ ]       |
+| 05      | [ ]       |
+| 06      | [ ]       |
+| ...     | ...       |
 ```
+
+Replace YYYY with the current year, MM with the month, and DD with the date.
 
 Save the file.
 Close your text editor.
@@ -240,3 +257,4 @@ git add ReadMe.md
 git commit -m "docs(ReadMe): Add ReadMe initial content"
 git status
 ```
+

@@ -43,8 +43,8 @@ Here are the explanations.
 
 > The statement "For temporally related changes, an insertion in the past is a
 > deletion in the present" means that when you add something to your project,
-> like
-> a line of code or a new feature, it becomes part of your project's history.
+> like a line of code or a new feature, it becomes part of your project's
+> history.
 >
 > If you later change your mind and remove that code, it seems like you’ve
 > deleted something that was there before.
@@ -59,9 +59,9 @@ Here are the explanations.
 > history and current state in Git.
 >
 > When you insert a change into your codebase at a certain commit, it
-> establishes a historical context. If you later modify or remove that change, it
-> creates a sense of deletion from the current perspective while still retaining
-> its historical significance in the repository's timeline.
+> establishes a historical context. If you later modify or remove that change,
+> it creates a sense of deletion from the current perspective while still
+> retaining its historical significance in the repository's timeline.
 >
 > This emphasizes the importance of understanding how changes propagate through
 > your Git history and how current modifications can alter the interpretation of
